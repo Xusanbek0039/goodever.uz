@@ -4,4 +4,4 @@ Ushbu web sayt shaxsiy biznesda mahsulotlarni ko'rsatib berish uchun ishlab chiq
 
 [Online ko'rish saytning asl holini](https://goodever.uz)
 
-[GitHubda Online ko'rish](https://goodever.uz)
+[GitHubda Online ko'rish](https://xusanbek0039.github.io/goodever.uz/)
